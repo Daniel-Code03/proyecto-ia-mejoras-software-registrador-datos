@@ -1,0 +1,8 @@
+{
+  "Devices": "Arduino",
+  "Sampling_Time": "5",
+  "Baudrate": "9600",
+  "WiFi_Name": "Guest",
+  "WiFi_Password": "Password",
+  "Date_Time": "2026/01/13 01:41:55"
+}
